@@ -1,0 +1,1 @@
+var a = 5; //some JS just to test folder structure
